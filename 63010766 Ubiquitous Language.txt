@@ -1,0 +1,38 @@
+Education	
+word / definitions
+language	ภาษา
+period		คาบเรียน
+classroom	ห้องเรียน
+promotion 	ข้อเสนอพืเศษ
+Subject		วิชา
+Instructure	อาจารย์
+Student		นักเรียน
+Course		คอร์ส
+teacher		คุณครู
+tuition fees	ค่าเทอม
+========================
+Hotel & Lodging	
+word / definitions
+cuisine		อาหารในโรงแรม
+booking		จองห้องพัก
+departure	การออกเดินทาง
+price per night	ราคาต่อคืน
+room grade	ระดับของห้องพัก
+check in	เช็คอิน
+check out	เช็คเอ้าท์
+motel		ห้องพักริมทาง
+vacancy		ห้องว่าง
+reservation	การจองห้องพัก
+========================
+Banking	
+word / definitions
+balance		ยอดเงิน
+deposit		ฝากเงิน
+withdraw	ถอนเงิน
+statement	บันทึกรายการเคลื่อนไหวของบัญชี
+bank account	บัญชีเงินฝาก
+credit card	บัตรจากธนาคารที่อนุญาตให้ซื้อสินค้าด้วยเครดิต
+interest	ดอกเบี้ย
+debit card	บัตรที่ผูกไว้กับบัญชีเงินฝากของผู้ถือบัตร เพื่อใช้ทำรายการที่เครื่อง ATM
+bank charges	ค่าธรรมเนียมสำหรับธนาคาร
+cheque		เอกสารที่ผู้สั่งจ่ายเขียนเพื่อให้ธนาคารจ่ายเงินแก่ผู้ถือ
